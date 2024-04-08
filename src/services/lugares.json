@@ -1,0 +1,42 @@
+[
+    {
+        "lugar": {
+            "id": 1,
+            "descricao": "vila em Les Terres Basses, São Martinho",
+            "img": "https://www.qualifest.com.br/wp-content/uploads/2022/03/Catering_03-scaled-1-1024x767.jpg",
+            "preco": "14.861"
+        }
+    },
+    {
+        "lugar": {
+            "id": 2,
+            "descricao": "Grace: The Aerial All-Inclusive Private Island",
+            "img": "https://fatimabuffet.com.br/wp-content/uploads/2020/12/local-para-eventos-villa-serata.jpg",
+            "preco": "14.026"
+        }
+    },
+    {
+        "lugar": {
+            "id": 3,
+            "descricao": "ILHA BARU PRIVATIVA",
+            "img": "https://fatimabuffet.com.br/wp-content/uploads/2020/12/local-para-eventos-villa-serata.jpg",
+            "preco": "9.961"
+        }
+    },
+    {
+        "lugar": {
+            "id": 4,
+            "descricao": "BellamareVilla Oceanfront, piscina",
+            "img": "https://gardenbistro.com.br/wp-content/uploads/2023/01/garden-bistro-em-sao-paulo-espaco-para-eventos-confraternizacoes-campo-belo4-1024x683.jpg",
+            "preco": "4.842"
+        }
+    },
+    {
+        "lugar": {
+            "id": 5,
+            "descricao": "SandCastle Pointe Villa",
+            "img": "https://alfred.alboompro.com/resize/width/1200/height/1200/url/storage.alboompro.com/sites/1132/media/13-villa-sansu-espaco-eventos-casamentos-sp-fotografo-denis-silveira-fotografia_e8105766bea6.jpg?t=1579389618",
+            "preco": "8.694"
+        }
+    }
+]
